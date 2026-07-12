@@ -1,7 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=5e1224&height=180&section=header&text=Nehir%20Özkeskin&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineering%20Student&descAlignY=55&descSize=20" width="100%" />
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1200&color=D4537E&center=true&vCenter=true&width=500&lines=Merhaba,+ben+Nehir+👋;Yapay+Zeka+Mühendisliği+öğrencisi;Python+geliştiricisi;Öğrenmeye+devam..." />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1200&color=D4537E&center=true&vCenter=true&width=500&lines=Merhaba%2C+ben+Nehir;Yapay+Zeka+M%C3%BChendisli%C4%9Fi+%C3%B6%C4%9Frencisi;Python+geli%C5%9Ftiricisi;%C3%96%C4%9Frenmeye+devam..." />
 </p>
 
 ## 🍷 Hakkımda
@@ -15,7 +14,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-5e1224?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-5e1224?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-5e1224?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-5e1224?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-5e1224?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/VS%20Code-5e1224?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
