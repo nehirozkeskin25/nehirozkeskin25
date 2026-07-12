@@ -27,8 +27,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nehirozkeskin25&show_icons=true&title_color=d4537e&icon_color=5e1224&text_color=888888&bg_color=00000000&hide_border=true&locale=tr" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nehirozkeskin25&layout=compact&title_color=d4537e&text_color=888888&bg_color=00000000&hide_border=true&locale=tr" />
+<img src="https://github-stats-extended.vercel.app/api?username=nehirozkeskin25&show_icons=true&title_color=d4537e&icon_color=d4537e&text_color=888888&bg_color=00000000&hide_border=true" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=nehirozkeskin25&layout=compact&title_color=d4537e&text_color=888888&bg_color=00000000&hide_border=true" />
 </p>
 
 ## 🐍 Yılan
