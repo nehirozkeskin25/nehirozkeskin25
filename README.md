@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=5e1224&height=180&section=header&text=Nehir%20Özkeskin&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineering%20Student&descAlignY=55&descSize=20" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1200&color=D4537E&center=true&vCenter=true&width=650&lines=Merhaba%2C+ben+Nehir;Yapay+Zeka+M%C3%BChendisli%C4%9Fi+%C3%B6%C4%9Frencisi;Veri+ve+makine+%C3%B6%C4%9Frenmesiyle+ilgileniyorum" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1200&color=D4537E&vCenter=true&width=650&lines=Merhaba%2C+ben+Nehir;Yapay+Zeka+M%C3%BChendisli%C4%9Fi+%C3%B6%C4%9Frencisi;Veri+ve+makine+%C3%B6%C4%9Frenmesiyle+ilgileniyorum" />
 
 ## 🍷 Hakkımda
 
