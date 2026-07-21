@@ -46,3 +46,5 @@
   <a href="https://linkedin.com/in/nehirozkeskin"><img src="https://img.shields.io/badge/LinkedIn-5e1224?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:nehir_ozkeskin25@trabzon.edu.tr"><img src="https://img.shields.io/badge/E--posta-5e1224?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=5e1224&height=120&section=footer" width="100%" />
