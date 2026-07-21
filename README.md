@@ -4,10 +4,11 @@
   <img src="https://komarev.com/ghpvc/?username=nehirozkeskin25&style=for-the-badge&color=5e1224&label=Profil+G%C3%B6r%C3%BCnt%C3%BClenme" />
 </p>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1200&color=D4537E&vCenter=true&width=650&lines=Merhaba%2C+ben+Nehir;Yapay+Zeka+M%C3%BChendisli%C4%9Fi+%C3%B6%C4%9Frencisi;Veri+ve+makine+%C3%B6%C4%9Frenmesiyle+ilgileniyorum" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1200&color=D4537E&vCenter=true&width=650&lines=Merhaba%2C+ben+Nehir;Yapay+Zeka+M%C3%BChendisli%C4%9Fi+%C3%B6%C4%9Frencisi;Veri+ve+makine+%C3%B6%C4%9Frenmesiyle+ilgileniyorum" />
+</p>
 
 ## 🍷 Hakkımda
-
 - 🎓 Trabzon Üniversitesi — Yapay Zeka Mühendisliği öğrencisiyim
 - 🐍 Python ile geliştirme yapıyorum
 - 🤖 Makine öğrenmesi ve yapay zeka üzerine kendimi geliştiriyorum
@@ -15,16 +16,12 @@
 - 💼 LinkedIn: [linkedin.com/in/nehirozkeskin](https://linkedin.com/in/nehirozkeskin)
 
 ## 🛠️ Kullandığım Teknolojiler
-
 <p align="center">
   <img src="https://img.shields.io/badge/Python-5e1224?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-5e1224?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-5e1224?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-5e1224?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/VS%20Code-5e1224?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-</p>
->
-  <img src="https://streak-stats.demolab.com/?user=nehirozkeskin25&background=00000000&border=5e1224&ring=5e1224&fire=d4537e&currStreakLabel=d4537e&sideLabels=5e1224&currStreakNum=d4537e&sideNums=5e1224&dates=888888" />
 </p>
 
 ## 📊 GitHub İstatistikleri
@@ -38,19 +35,14 @@
   <img src="https://streak-stats.demolab.com/?user=nehirozkeskin25&background=00000000&border=5e1224&ring=5e1224&fire=d4537e&currStreakLabel=d4537e&sideLabels=5e1224&currStreakNum=d4537e&sideNums=5e1224&dates=888888" />
 </p>
 
-
 ## 🐍 Yılan
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nehirozkeskin25/nehirozkeskin25/output/github-snake-dark.svg">
   <img src="https://raw.githubusercontent.com/nehirozkeskin25/nehirozkeskin25/output/github-snake.svg">
 </picture>
 
 ## 📬 İletişim
-
 <p align="center">
   <a href="https://linkedin.com/in/nehirozkeskin"><img src="https://img.shields.io/badge/LinkedIn-5e1224?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:nehir_ozkeskin25@trabzon.edu.tr"><img src="https://img.shields.io/badge/E--posta-5e1224?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=5e1224&height=120&section=footer" width="100%" />
