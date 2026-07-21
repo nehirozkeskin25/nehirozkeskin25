@@ -30,9 +30,10 @@
   <img src="https://streak-stats.demolab.com/?user=nehirozkeskin25&background=00000000&border=5e1224&ring=5e1224&fire=d4537e&currStreakLabel=d4537e&sideLabels=5e1224&currStreakNum=d4537e&sideNums=5e1224&dates=888888" />
 </p>
 
+## 📊 GitHub İstatistikleri
 <p align="center">
-<img src="https://github-stats-extended.vercel.app/api?username=nehirozkeskin25&show_icons=true&title_color=d4537e&icon_color=d4537e&text_color=888888&bg_color=00000000&hide_border=true" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=nehirozkeskin25&layout=compact&title_color=d4537e&text_color=888888&bg_color=00000000&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nehirozkeskin25&show_icons=true&title_color=d4537e&icon_color=d4537e&text_color=888888&bg_color=00000000&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nehirozkeskin25&layout=compact&title_color=d4537e&text_color=888888&bg_color=00000000&hide_border=true" />
 </p>
 
 ## 🐍 Yılan
