@@ -1,9 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=5e1224&height=180&section=header&text=Nehir%20%C3%96zkeskin&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineering%20Student&descAlignY=55&descSize=20" width="100%" />
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nehirozkeskin25&style=for-the-badge&color=5e1224&label=Profil+Goruntulenme" />
 </p>
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1200&color=D4537E&vCenter=true&width=650&lines=Merhaba%2C+ben+Nehir;Yapay+Zeka+Muhendisligi+ogrencisi;Veri+ve+makine+ogrenmesiyle+ilgileniyorum" />
 </p>
@@ -29,9 +27,9 @@
   <img height="165px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=nehirozkeskin25&show_icons=true&hide_title=true&title_color=d4537e&icon_color=d4537e&text_color=888888&bg_color=0d1117&border_color=5e1224" />
 </p>
 
-## 🔥 Katkı Serisi
+## 🔥 Katkı Grafiği
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nehirozkeskin25&background=0d1117&border=5e1224&ring=d4537e&fire=d4537e&currStreakLabel=d4537e&sideLabels=888888&currStreakNum=d4537e&sideNums=888888&dates=888888&stroke=5e1224" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nehirozkeskin25&bg_color=0d1117&color=d4537e&line=d4537e&point=ffffff&area=true&area_color=5e1224&hide_border=true&custom_title=Katk%C4%B1%20Aktivitem" width="95%" />
 </p>
 
 ## 🐍 Yılan
