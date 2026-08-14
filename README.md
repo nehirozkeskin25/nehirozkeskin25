@@ -29,7 +29,7 @@
 ## 📊 GitHub İstatistiklerim
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/nehirozkeskin25/nehirozkeskin25/main/assets/stats.svg" width="470" />
+  <img height="165px" src="https://github-readme-stats.vercel.app/api?username=nehirozkeskin25&show_icons=true&hide_title=true&title_color=d4537e&icon_color=d4537e&text_color=888888&bg_color=0d1117&border_color=5e1224" />
 </p>
 
 ## 🔥 Katkı Grafiği
