@@ -1,12 +1,15 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=5e1224&height=180&section=header&text=Nehir%20%C3%96zkeskin&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineering%20Student&descAlignY=55&descSize=20" width="100%" />
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nehirozkeskin25&style=for-the-badge&color=5e1224&label=Profil+Goruntulenme" />
 </p>
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1200&color=D4537E&vCenter=true&width=650&lines=Merhaba%2C+ben+Nehir;Yapay+Zeka+Muhendisligi+ogrencisi;Veri+ve+makine+ogrenmesiyle+ilgileniyorum" />
 </p>
 
 ## 🍷 Hakkımda
+
 - 🎓 Trabzon Üniversitesi — Yapay Zeka Mühendisliği öğrencisiyim
 - 🐍 Python ile geliştirme yapıyorum
 - 🤖 Makine öğrenmesi ve yapay zeka üzerine kendimi geliştiriyorum
@@ -14,6 +17,7 @@
 - 💼 LinkedIn: [linkedin.com/in/nehirozkeskin](https://linkedin.com/in/nehirozkeskin)
 
 ## 🛠️ Kullandığım Teknolojiler
+
 <p align="center">
   <img src="https://img.shields.io/badge/Python-5e1224?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-5e1224?style=for-the-badge&logo=mysql&logoColor=white" />
@@ -22,23 +26,27 @@
   <img src="https://img.shields.io/badge/VS%20Code-5e1224?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 </p>
 
-## 📊 GitHub İstatistikleri
+## 📊 GitHub İstatistiklerim
+
 <p align="center">
-  <img height="165px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=nehirozkeskin25&show_icons=true&hide_title=true&title_color=d4537e&icon_color=d4537e&text_color=888888&bg_color=0d1117&border_color=5e1224" />
+  <img src="https://raw.githubusercontent.com/nehirozkeskin25/nehirozkeskin25/main/assets/stats.svg" width="470" />
 </p>
 
 ## 🔥 Katkı Grafiği
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nehirozkeskin25&bg_color=0d1117&color=d4537e&line=d4537e&point=ffffff&area=true&area_color=5e1224&hide_border=true&custom_title=Katk%C4%B1%20Aktivitem" width="95%" />
 </p>
 
 ## 🐍 Yılan
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nehirozkeskin25/nehirozkeskin25/output/github-snake-dark.svg">
   <img src="https://raw.githubusercontent.com/nehirozkeskin25/nehirozkeskin25/output/github-snake.svg">
 </picture>
 
 ## 📬 İletişim
+
 <p align="center">
   <a href="https://linkedin.com/in/nehirozkeskin"><img src="https://img.shields.io/badge/LinkedIn-5e1224?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:nehir_ozkeskin25@trabzon.edu.tr"><img src="https://img.shields.io/badge/E--posta-5e1224?style=for-the-badge&logo=gmail&logoColor=white" /></a>
